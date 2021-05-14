@@ -9,3 +9,5 @@ Initially I saw 12 colors until I checked the comments and saw some people repor
 It was at this point I realized I had to step in and prove definitively how many colors there were
 
 The final out put and the definitive answer to how many colors are there is 108
+
+I suspect that most of these colors lie in the "lines" between the colors visible to the human-eye. These colors are likely generated during some sort of compression either by Twitter or by the author of the tweet.
